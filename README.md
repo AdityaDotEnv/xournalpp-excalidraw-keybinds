@@ -45,4 +45,4 @@ Issues, suggestions and PRs are welcome.
 
 ## License
 
-See [LICENSE](LICENSE.md).
+See [LICENSE](LICENSE).
